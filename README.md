@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @sbmshukla
-- 👀 I’m interested in Ethical Hacking,Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-sbmshukla/sbmshukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Certified Android Developer, good ability to transcribe any UI on android,good command of modern tools / technologies in android development, meticulous, and respects the rules of good development. I have no problem working in a team, and I like to go ahead, innovate, propose ideas to advance a project.
+- 📫 How to reach me: https://www.linkedin.com/in/shubham-shukla-9727231ba
