@@ -25,5 +25,3 @@
 
 - 👋 Hi, I’m @sbmshukla
 - 👀 Certified Android Developer, good ability to transcribe any UI on android,good command of modern tools / technologies in android development, meticulous, and respects the rules of good development. I have no problem working in a team, and I like to go ahead, innovate, propose ideas to advance a project.
-- 📫 How to reach me: 
-
