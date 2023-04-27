@@ -53,4 +53,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbmshukla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-[![sbmshukla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sbmshukla)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![sbmshukla's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sbmshukla)]
