@@ -57,4 +57,4 @@
 
 ---
 
-### :smart: My Projects :
+### My Projects :
