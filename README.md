@@ -1,5 +1,4 @@
 <div id="greetings"align="center">
-<h1>  News App </h1>
  <img height="180em" src="sbmshukla_linkedin_frame.png" />
 </div>
 
