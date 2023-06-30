@@ -1,4 +1,7 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sbmshukla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div id="greetings"align="center">
+<h1>  News App </h1>
+ <img height="180em" src="Hero.png" />
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdhZTdkMzk0NGE3NDg2YTAyNDIwOWYwZTJkYzk0ZDFhMGY5YWQ3NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zEppXTwJgPtdBlyXxB/giphy.gif" width="100"/>
