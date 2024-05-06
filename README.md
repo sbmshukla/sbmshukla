@@ -1,7 +1,3 @@
-<div id="greetings"align="center">
- <img height="180em" src="sbmshukla_linkedin_frame.png" />
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdhZTdkMzk0NGE3NDg2YTAyNDIwOWYwZTJkYzk0ZDFhMGY5YWQ3NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/zEppXTwJgPtdBlyXxB/giphy.gif" width="100"/>
 </div>
